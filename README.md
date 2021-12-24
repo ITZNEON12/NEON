@@ -1,10 +1,26 @@
-<h1 align="center">
-<b>𝐃𝐄𝐀𝐃𝐋𝐘 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 {🇮🇳}</b>
-</h1>
-<p align="center">
-  <img src="https://telegra.ph/file/22604038d2a21ab10a6cb.jpg" alt="The-PANTHERS BOT">
 
-𝙱𝙴𝚂𝚃  𝙰𝙽𝙳  𝙼𝙾𝚂𝚃  𝙰𝚆𝙰𝙸𝚃𝙴𝙳  𝚄𝚂𝙴𝚁𝙱𝙾𝚃  𝚃𝙾  𝙼𝙰𝙽𝙰𝙶𝙴  𝚈𝙾𝚄𝚁  𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 </p>
+## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
+
+[![Deploy](https://telegra.ph/file/0eb22051107b293466d50.jpg)](https://heroku.com/deploy?template=https://github.com/DEADLY-FIGHTERS/DEADLY-DANAV-BOT)
+
+## [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDEADLY-FIGHTERS%2FMIKASA-USERBOT&plugins=postgresql&envs=ABUSE%2CAPI_HASH%2CAPP_ID%2CDEADLY_KAAL_SESSION%2CBOT_TOKEN%2CBOT_USERNAME%2CLOGGER_ID%2CHANDLER%2CENV&optionalEnvs=ABUSE%2CHANDLER%2CENV&ABUSEDesc=Fill+%22ON%22+for+abuses+and+some+adult+plugins&API_HASHDesc=Get+it+from+my.telegram.org%2Fapi&APP_IDDesc=Get+it+from+my.telegram.org%2Fapi&DEADLY_KAAL_SESSIONDesc=Fill+your+String+session&BOT_TOKENDesc=Bot+token+from+%40Botfather&BOT_USERNAMEDesc=Bot+username+from+%40Botfather&LOGGER_IDDesc=Create+a+channel+and+get+it%27s+id+from+%40missrose_bot&HANDLERDesc=Your+command+handler.+Default+value+is+%22.%22&ENVDesc=Leave+it+as+it+is&referralCode=n738VA)
+------------------------------------------------
+## 𝚁𝙴𝙿𝙻 :                
+
+- Open Repl Link.
+- Click on Green Play Button.
+- Wait for requirements to finish.
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- If You have Enabled 2-Step Verification then fill your password.
+- Your Deadly Bot Session Will be saved in your Telegram Saved Message.
+
+[![repl]()](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+    
+-------------------------------------------------
+
+
+𝚆𝙰𝙸𝚃𝙴𝙳  𝚄𝚂𝙴𝚁𝙱𝙾𝚃  𝚃𝙾  𝙼𝙰𝙽𝙰𝙶𝙴  𝚈𝙾𝚄𝚁  𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 </p>
 
 -----
 
